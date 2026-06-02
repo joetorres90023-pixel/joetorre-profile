@@ -136,7 +136,7 @@ h1{
 }
 
 h2{
-    font-size:2rem;
+    font-size:1rem;
 }
 #CFSC{
     background-image: url("cfsc-logo.png");
@@ -163,6 +163,7 @@ body {
     background-repeat: no-repeat;
     background-color: black;
 }
-#inform4{
-    
+.contact{
+    margin-left: 70%;
+    color: whitesmoke;
 }
